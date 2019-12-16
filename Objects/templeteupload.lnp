@@ -1,0 +1,4 @@
+".\Objects\main.obj",
+".\Objects\temp.obj" 
+TO ".\Objects\templeteupload" 
+PRINT(".\Listings\templeteupload.m51")
